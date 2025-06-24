@@ -35,7 +35,7 @@
 </head>
 <body>
     <h1>Bienvenue sur mon App PHP déployée avec Azure 🚀</h1>
-    <p>Ceci est une belle page personnalisée.</p>
+    <p>Ceci est un teste de karim</p>
     <button class="btn" onclick="alert('Merci de visiter mon site !')">Clique ici</button>
 </body>
 </html>
